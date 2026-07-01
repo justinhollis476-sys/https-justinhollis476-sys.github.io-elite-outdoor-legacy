@@ -1,0 +1,15 @@
+Elite-Outdoor-Legacy/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── images/
+│   ├── hero.jpg
+│   ├── lawn1.jpg
+│   ├── lawn2.jpg
+│   ├── logo.png
+│
+└── assets/
+    └── icons/
