@@ -1,0 +1,26 @@
+Elite-Outdoor-Legacy-V2/
+│
+├── index.html
+├── services.html
+├── gallery.html
+├── about.html
+├── contact.html
+│
+├── css/
+│   ├── style.css
+│   └── responsive.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   ├── gallery1.jpg
+│   ├── gallery2.jpg
+│   └── ...
+│
+├── assets/
+│   └── favicon.ico
+│
+└── README.md
